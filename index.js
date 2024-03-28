@@ -83,6 +83,6 @@ http_serer.get("/NumberOfTimeBooking",(req,res,next)=>{
 
 
 
-http_serer.listen(3000,'127.0.0.1',()=>{
-    console.log('Listening on 127.0.0.1:3000')
+http_serer.listen(3000,'0.0.0.0',()=>{
+    console.log('Server Start')
 })
