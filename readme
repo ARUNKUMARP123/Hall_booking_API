@@ -1,0 +1,23 @@
+1.create a Room with:
+post=> https://hall-booking-api-cc13.onrender.com/create_rooms
+get=> https://hall-booking-api-cc13.onrender.com/total_rooms
+
+2.Booking a Room with:
+post=> https://hall-booking-api-cc13.onrender.com/create_bookings
+get=>  https://hall-booking-api-cc13.onrender.com/booked_rooms
+
+3.list all rooms with booked data with:
+post=> https://hall-booking-api-cc13.onrender.com/create_RoomsWithBookedData
+get=>  https://hall-booking-api-cc13.onrender.com/RoomsWithBookedData
+
+4.list all customer with booked data with:
+post=>  https://hall-booking-api-cc13.onrender.com/create_CustomerWithBookedData
+get=>  https://hall-booking-api-cc13.onrender.com/CustomerWithBookedData
+
+5.list how many times a customer has booked the room with below details:
+post=> https://hall-booking-api-cc13.onrender.com/create_NumberOfTimeBooking
+get=> https://hall-booking-api-cc13.onrender.com/NumberOfTimeBooking
+
+6.Booking a Room with:
+post=> 
+get=> 
